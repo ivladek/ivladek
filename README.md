@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vladislav Kirilin
 - 👀 I’m interested in infrastructure as architect and in software development as automatisator
 - 🌱 I’m currently learning for DevOps engineers
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything intresting project
 - 📫 How to reach me - as @ivladek in facebook, linkedin, github, twitter, telegram
 
 <!---
