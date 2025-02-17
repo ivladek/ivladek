@@ -1,3 +1,4 @@
-- Hi, I’m Vladislav Kirilin
-- I’m seazoned Cloud Architect and infrastructure automatization engineer
-- How to reach me - as @ivladek in facebook, linkedin, github, twitter, telegram
+Hi! I’m:
+- Vladislav Kirilin
+- seazoned Cloud Architect and infrastructure automatization engineer
+- reachable as @ivladek in Facebook, LinkedIn, GitHub, Twitter, Telegram
